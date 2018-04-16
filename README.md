@@ -7,6 +7,6 @@ breweries beers and stored them in a SQL database for use in a Baltimore brewery
 
 ## Modules
 
-**Beautiful Soup 4** - Used to parse webpages and get contents
-**Urllib2** - A backup parser, used when the default `html.parser` was not parsing all contents
-**PyMySQL** - Used to insert scrapped data into SQL database
+- **Beautiful Soup 4** - Used to parse webpages and get contents
+- **Urllib2** - A backup parser, used when the default `html.parser` was not parsing all contents
+- **PyMySQL** - Used to insert scrapped data into SQL database
